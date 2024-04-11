@@ -18,7 +18,7 @@ The Dictionary Spell Checker is a Java application that provides a comprehensive
 1. **Clone the Repository**:
 
 ```sh
-   git clone https://github.com/jha-nikita/Dictionary_Spell
+git clone https://github.com/jha-nikita/Dictionary_Spell
    ```
 
 2. **Compile the Code**:
