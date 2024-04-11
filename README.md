@@ -1,9 +1,6 @@
-Absolutely! Here's the README content formatted in Markdown for easy copying and pasting:
-
-```markdown
 # Dictionary Spell Checker
 
-![Dictionary Spell Checker Logo](https://yourwebsite.com/your-logo.png)
+![Dictionary Spell Checker Logo](https://img.freepik.com/premium-vector/file-searching-concept-illustration_86047-683.jpg?w=740)
 
 ## Overview
 
@@ -19,27 +16,26 @@ The Dictionary Spell Checker is a Java application that provides a comprehensive
 ## How to Use
 
 1. **Clone the Repository**:
-   ```
-   git clone https://github.com/yourusername/dictionary-spell-checker.git
+
+```sh
+   git clone https://github.com/jha-nikita/Dictionary_Spell
    ```
 
 2. **Compile the Code**:
-   ```
-   javac *.java
-   ```
+```java
+javac*.java
+```
+3. **Run the application**:
+```java
+java DictionaryApp
+```
 
-3. **Run the Application**:
-   ```
-   java DictionaryApp
-   ```
-
-4. **Follow the Instructions**:
-   - Enter a word to search for its meaning.
-   - If the word is not found, the application will suggest corrections if available.
+4. **Follow the instructions**:
+* Enter a word to search for its meaning.
+* If the word is not found, the application will suggest corrections if available.
 
 ## Example Usage
-
-```
+```sh
 Enter a word: apple
 Meaning: A fruit that grows on trees and is typically red or green
 
@@ -56,8 +52,3 @@ Enter a word: exit
 ## Contributing
 
 Contributions are welcome! If you have ideas for improvements or bug fixes, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
